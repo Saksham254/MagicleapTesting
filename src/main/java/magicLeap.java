@@ -16,8 +16,8 @@ import java.util.concurrent.TimeUnit;
 
 public class magicLeap {
 
-    public String username = "mudits";
-    public String accesskey = "JdkSYoBcmZJ8xPHNCjL9CdBhYzcshYGXmgphdCjspipMlpkrJo";
+    public String username = "sakshama";
+    public String accesskey = "vULQbs1X2u3zBpdmb3STdAjStBI2nNfFuwjDDMPoIFeRJI3iVB";
     public RemoteWebDriver driver;
     public String gridURL = "@hub.lambdatest.com/wd/hub"; //"@eu-central-1-hub.lambdatest.com/wd/hub";
     String status;
